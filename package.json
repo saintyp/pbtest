@@ -1,8 +1,7 @@
  {
    "name": "repository-name",
    "dependencies": {
-     "@dataform/core": "2.0.3",
-     "dataform-scd": "https://github.com/dataform-co/dataform-scd/archive/0.3.tar.gz",
+     "@dataform/core": "2.9.0",
      "post-office" : "0.3.2",
      "react-pdf" : " 9.0.0"
    }
